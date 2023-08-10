@@ -17,7 +17,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "bunserver": "json-server -- watch bunserver.json --port 4000"
+    "bunserver": "json-server --watch bunserver.json --port 4000"
   },
   "eslintConfig": {
     "extends": [
