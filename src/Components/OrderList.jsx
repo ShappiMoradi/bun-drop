@@ -17,9 +17,10 @@ function OrderList(Burger) {
         if (response.ok) {
          
           removeFromUI();
+          window.location.reload()
         }
       })
-      window.location.reload()
+
   }
 
   function removeFromUI() {

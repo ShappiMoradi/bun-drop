@@ -55,11 +55,5 @@
       "price": 89
     }
   ],
-  "Orders": [
-    {
-      "Name": "Crispy Chicken",
-      "Price": 65,
-      "id": 1
-    }
-  ]
+  "Orders": []
 }
