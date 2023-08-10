@@ -1,0 +1,65 @@
+{
+  "Burgers": [
+    {
+      "Id": 1,
+      "name": "Flexi BBQ Cheese",
+      "image": "https://cdn-bk-se-ordering.azureedge.net/media/mekkb3w5/flexi-bbq-cheese.png",
+      "price": 79
+    },
+    {
+      "Id": 2,
+      "name": "Whopper",
+      "image": "https://cdn-bk-se-ordering.azureedge.net/media/bcyneab3/bk_kiosk_400x290_singel_whopper-1.png",
+      "price": 85
+    },
+    {
+      "Id": 3,
+      "name": "Crispy Chicken",
+      "image": "https://cdn-bk-se-ordering.azureedge.net/media/tzdfpoe0/bk_kiosk_400x290_singel_crispychicken.png",
+      "price": 65
+    },
+    {
+      "Id": 4,
+      "name": "Double Halloumi King",
+      "image": "https://cdn-bk-se-ordering.azureedge.net/media/svuj5pto/400x290_halloumi-king-dbl_singel.png",
+      "price": 55
+    },
+    {
+      "Id": 5,
+      "name": "Gourmet Grill Steakhouse",
+      "image": "https://cdn-bk-se-ordering.azureedge.net/media/uheksybx/gourme-2.png",
+      "price": 95
+    },
+    {
+      "Id": 6,
+      "name": "Double Gourmet Grill Triple Cheese",
+      "image": "https://cdn-bk-se-ordering.azureedge.net/media/p5wjconr/bkno0060_gourmet_triple_cheese_400x290_kiosk_produktbilde_singel_2.png",
+      "price": 99
+    },
+    {
+      "Id": 7,
+      "name": "BBQ Cheese Chicken Royale",
+      "image": "https://cdn-bk-se-ordering.azureedge.net/media/5mdduo1s/bbq-cheese-chicken-royale.png",
+      "price": 53
+    },
+    {
+      "Id": 8,
+      "name": "Whopper Bacon & Cheese",
+      "image": "https://cdn-bk-se-ordering.azureedge.net/media/javhcetb/bk_kiosk_400x290_singel_whopperbaconcheese.png",
+      "price": 49
+    },
+    {
+      "Id": 9,
+      "name": "Triple Cheeseburger",
+      "image": "https://cdn-bk-se-ordering.azureedge.net/media/a4jhirin/bk-kiosk-checkout-machine-400x290_singel-triple-cheeseburger.png",
+      "price": 89
+    }
+  ],
+  "Orders": [
+    {
+      "Name": "Crispy Chicken",
+      "Price": 65,
+      "id": 1
+    }
+  ]
+}

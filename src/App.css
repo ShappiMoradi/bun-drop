@@ -1,38 +1,130 @@
-.App {
-  text-align: center;
+.Home-container{
+display: flex;
+flex-direction: column;
+align-items: center;
+margin: 0;
+height: 100vh;
+background-image: url("./images/wallpaperflare.com_wallpaper.jpg");
+background-size: cover;
+z-index: -1;
+
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.Text-mall{
+color:#E9760C;
+margin-top: 150px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.Btn-Home{
+margin-top: 400px;
+background-color: #E9760C;
+border-radius: 20px;
+width: 200px;
+height: 30px;
+font-weight: bold;
+
+
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.Product-container{
+display: flex;
+flex-direction: column;
+width: 300px;
+align-items: center;
+justify-content: center;
 }
 
-.App-link {
-  color: #61dafb;
+.img-container{
+width: 200px;
+height: 200px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.allproducts{
+display:flex;
+flex-wrap: wrap;
+align-items: center;
+width: 80%;
+gap: 60px;
+margin-left: 250px;
+}
+
+.textcolor{
+color: #E9760C;
+font-style: italic;
+
+}
+.family-text{
+font-family: 'Kaushan Script', cursive;
+}
+
+.btn-add{
+border-radius: 20px;
+font-size:large;
+background: #E9760C;
+}
+
+.Modal-added{
+position: fixed;
+top: 100px;
+margin: 0;
+background-color: transparent;
+width:800px;
+height: 800px;
+display: flex;
+justify-content: center;
+align-items: center;
+z-index: 2;
+
+}
+
+.Modal-text{
+background-color: #E9760C;
+height: 300px;
+width: 300px;
+}
+
+.Payment{
+text-align: center;
+display: flex;
+flex-direction: column;
+gap: 10px;
+align-items: center;
+border-radius: 20px;
+color: #E9760C;
+
+}
+
+
+.form-group{
+margin-bottom: 0px;
+}
+
+label{
+color: #E9760C;
+font-size: medium;
+font-weight: bold;
+}
+
+.Orders{
+width: 800px;
+height: 800px;
+background-color: black;
+}
+
+
+.Btn-continue{
+position: fixed;
+background-color: orange;
+
+}
+
+.Icon-form{
+display: flex;
+align-items: center;
+gap: 15px;
+}
+
+.img-payment:hover{
+cursor: pointer;
+background-color: white;
 }

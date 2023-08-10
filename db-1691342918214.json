@@ -1,0 +1,644 @@
+{
+  "Burgers": [
+    {
+      "Id": 1,
+      "name": "Flexi BBQ Cheese",
+      "image": "https://cdn-bk-se-ordering.azureedge.net/media/mekkb3w5/flexi-bbq-cheese.png",
+      "price": 79
+    },
+    {
+      "Id": 2,
+      "name": "Whopper",
+      "image": "https://cdn-bk-se-ordering.azureedge.net/media/bcyneab3/bk_kiosk_400x290_singel_whopper-1.png",
+      "price": 85
+    },
+    {
+      "Id": 3,
+      "name": "Crispy Chicken",
+      "image": "https://cdn-bk-se-ordering.azureedge.net/media/tzdfpoe0/bk_kiosk_400x290_singel_crispychicken.png",
+      "price": 65
+    },
+    {
+      "Id": 4,
+      "name": "Double Halloumi King",
+      "image": "https://cdn-bk-se-ordering.azureedge.net/media/svuj5pto/400x290_halloumi-king-dbl_singel.png",
+      "price": 55
+    },
+    {
+      "Id": 5,
+      "name": "Gourmet Grill Steakhouse",
+      "image": "https://cdn-bk-se-ordering.azureedge.net/media/uheksybx/gourme-2.png",
+      "price": 95
+    },
+    {
+      "Id": 6,
+      "name": "Double Gourmet Grill Triple Cheese",
+      "image": "https://cdn-bk-se-ordering.azureedge.net/media/p5wjconr/bkno0060_gourmet_triple_cheese_400x290_kiosk_produktbilde_singel_2.png",
+      "price": 99
+    },
+    {
+      "Id": 7,
+      "name": "BBQ Cheese Chicken Royale",
+      "image": "https://cdn-bk-se-ordering.azureedge.net/media/5mdduo1s/bbq-cheese-chicken-royale.png",
+      "price": 53
+    },
+    {
+      "Id": 8,
+      "name": "Whopper Bacon & Cheese",
+      "image": "https://cdn-bk-se-ordering.azureedge.net/media/javhcetb/bk_kiosk_400x290_singel_whopperbaconcheese.png",
+      "price": 49
+    },
+    {
+      "Id": 9,
+      "name": "Triple Cheeseburger",
+      "image": "https://cdn-bk-se-ordering.azureedge.net/media/a4jhirin/bk-kiosk-checkout-machine-400x290_singel-triple-cheeseburger.png",
+      "price": 89
+    }
+  ],
+  "Orders": [
+    {
+      "Name": "Whopper",
+      "id": 1
+    },
+    {
+      "Name": "Flexi BBQ Cheese",
+      "id": 2
+    },
+    {
+      "Name": "Whopper",
+      "id": 3
+    },
+    {
+      "Name": "Whopper",
+      "id": 4
+    },
+    {
+      "Name": "Whopper",
+      "id": 5
+    },
+    {
+      "Name": "Whopper Bacon & Cheese",
+      "id": 6
+    },
+    {
+      "Name": "Triple Cheeseburger",
+      "id": 7
+    },
+    {
+      "Name": "Whopper Bacon & Cheese",
+      "id": 8
+    },
+    {
+      "Name": "Triple Cheeseburger",
+      "id": 9
+    },
+    {
+      "Name": "Gourmet Grill Steakhouse",
+      "id": 10
+    },
+    {
+      "Name": "Gourmet Grill Steakhouse",
+      "id": 11
+    },
+    {
+      "Name": "Gourmet Grill Steakhouse",
+      "id": 12
+    },
+    {
+      "Name": "Double Halloumi King",
+      "id": 13
+    },
+    {
+      "Name": "Whopper",
+      "id": 14
+    },
+    {
+      "Name": "Flexi BBQ Cheese",
+      "id": 15
+    },
+    {
+      "Name": "Flexi BBQ Cheese",
+      "id": 16
+    },
+    {
+      "Name": "Whopper",
+      "id": 17
+    },
+    {
+      "Name": "Whopper",
+      "id": 18
+    },
+    {
+      "Name": "Whopper",
+      "id": 19
+    },
+    {
+      "Name": "Whopper",
+      "id": 20
+    },
+    {
+      "Name": "Whopper Bacon & Cheese",
+      "id": 21
+    },
+    {
+      "Name": "Whopper Bacon & Cheese",
+      "id": 22
+    },
+    {
+      "Name": "Whopper Bacon & Cheese",
+      "id": 23
+    },
+    {
+      "Name": "Whopper",
+      "id": 24
+    },
+    {
+      "Name": "Whopper",
+      "id": 25
+    },
+    {
+      "Name": "Flexi BBQ Cheese",
+      "id": 26
+    },
+    {
+      "Name": "Whopper",
+      "id": 27
+    },
+    {
+      "Name": "Whopper",
+      "id": 28
+    },
+    {
+      "Name": "Crispy Chicken",
+      "id": 29
+    },
+    {
+      "Name": "Whopper",
+      "id": 30
+    },
+    {
+      "Name": "Whopper",
+      "id": 31
+    },
+    {
+      "Name": "Whopper",
+      "id": 32
+    },
+    {
+      "Name": "Whopper",
+      "id": 33
+    },
+    {
+      "Name": "Flexi BBQ Cheese",
+      "id": 34
+    },
+    {
+      "Name": "Crispy Chicken",
+      "id": 35
+    },
+    {
+      "Name": "Flexi BBQ Cheese",
+      "id": 36
+    },
+    {
+      "Name": "Double Halloumi King",
+      "id": 37
+    },
+    {
+      "Name": "Double Halloumi King",
+      "id": 38
+    },
+    {
+      "Name": "Gourmet Grill Steakhouse",
+      "id": 39
+    },
+    {
+      "Name": "Whopper Bacon & Cheese",
+      "id": 40
+    },
+    {
+      "Name": "Whopper Bacon & Cheese",
+      "id": 41
+    },
+    {
+      "Name": "Whopper Bacon & Cheese",
+      "id": 42
+    },
+    {
+      "Name": "Triple Cheeseburger",
+      "id": 43
+    },
+    {
+      "Name": "BBQ Cheese Chicken Royale",
+      "id": 44
+    },
+    {
+      "Name": "Whopper",
+      "id": 45
+    },
+    {
+      "Name": "Whopper",
+      "id": 46
+    },
+    {
+      "Name": "Triple Cheeseburger",
+      "id": 47
+    },
+    {
+      "Name": "Whopper Bacon & Cheese",
+      "id": 48
+    },
+    {
+      "Name": "BBQ Cheese Chicken Royale",
+      "id": 49
+    },
+    {
+      "Name": "Gourmet Grill Steakhouse",
+      "id": 50
+    },
+    {
+      "Name": "Double Halloumi King",
+      "id": 51
+    },
+    {
+      "Name": "Whopper",
+      "id": 52
+    },
+    {
+      "Name": "Flexi BBQ Cheese",
+      "id": 53
+    },
+    {
+      "Name": "Crispy Chicken",
+      "id": 54
+    },
+    {
+      "Name": "Double Gourmet Grill Triple Cheese",
+      "id": 55
+    },
+    {
+      "Name": "Gourmet Grill Steakhouse",
+      "id": 56
+    },
+    {
+      "Name": "Double Halloumi King",
+      "id": 57
+    },
+    {
+      "Name": "BBQ Cheese Chicken Royale",
+      "id": 58
+    },
+    {
+      "Name": "Whopper Bacon & Cheese",
+      "id": 59
+    },
+    {
+      "Name": "Triple Cheeseburger",
+      "id": 60
+    },
+    {
+      "Name": "Whopper",
+      "id": 61
+    },
+    {
+      "Name": "Flexi BBQ Cheese",
+      "id": 62
+    },
+    {
+      "Name": "Double Halloumi King",
+      "id": 63
+    },
+    {
+      "Name": "Double Halloumi King",
+      "id": 64
+    },
+    {
+      "Name": "Whopper",
+      "id": 65
+    },
+    {
+      "Name": "Crispy Chicken",
+      "id": 66
+    },
+    {
+      "Name": "Flexi BBQ Cheese",
+      "id": 67
+    },
+    {
+      "Name": "Triple Cheeseburger",
+      "id": 68
+    },
+    {
+      "Name": "Triple Cheeseburger",
+      "id": 69
+    },
+    {
+      "Name": "Triple Cheeseburger",
+      "id": 70
+    },
+    {
+      "Name": "Whopper",
+      "id": 71
+    },
+    {
+      "Name": "Crispy Chicken",
+      "id": 72
+    },
+    {
+      "Name": "Triple Cheeseburger",
+      "id": 73
+    },
+    {
+      "Name": "BBQ Cheese Chicken Royale",
+      "id": 74
+    },
+    {
+      "Name": "Whopper Bacon & Cheese",
+      "id": 75
+    },
+    {
+      "Name": "Whopper Bacon & Cheese",
+      "id": 76
+    },
+    {
+      "Name": "Whopper Bacon & Cheese",
+      "id": 77
+    },
+    {
+      "Name": "Crispy Chicken",
+      "id": 78
+    },
+    {
+      "Name": "Crispy Chicken",
+      "id": 79
+    },
+    {
+      "Name": "Flexi BBQ Cheese",
+      "id": 80
+    },
+    {
+      "Name": "Flexi BBQ Cheese",
+      "id": 81
+    },
+    {
+      "Name": "Whopper",
+      "id": 82
+    },
+    {
+      "Name": "Whopper",
+      "id": 83
+    },
+    {
+      "Name": "Flexi BBQ Cheese",
+      "id": 84
+    },
+    {
+      "Name": "Whopper",
+      "id": 85
+    },
+    {
+      "Name": "Crispy Chicken",
+      "id": 86
+    },
+    {
+      "Name": "Crispy Chicken",
+      "id": 87
+    },
+    {
+      "Name": "Crispy Chicken",
+      "id": 88
+    },
+    {
+      "Name": "Crispy Chicken",
+      "id": 89
+    },
+    {
+      "Name": "Crispy Chicken",
+      "id": 90
+    },
+    {
+      "Name": "Crispy Chicken",
+      "id": 91
+    },
+    {
+      "Name": "Whopper",
+      "id": 92
+    },
+    {
+      "Name": "Double Halloumi King",
+      "id": 93
+    },
+    {
+      "Name": "Double Gourmet Grill Triple Cheese",
+      "id": 94
+    },
+    {
+      "Name": "Double Gourmet Grill Triple Cheese",
+      "id": 95
+    },
+    {
+      "Name": "Double Gourmet Grill Triple Cheese",
+      "id": 96
+    },
+    {
+      "Name": "Double Gourmet Grill Triple Cheese",
+      "id": 97
+    },
+    {
+      "Name": "Double Gourmet Grill Triple Cheese",
+      "id": 98
+    },
+    {
+      "Name": "Double Gourmet Grill Triple Cheese",
+      "id": 99
+    },
+    {
+      "Name": "Gourmet Grill Steakhouse",
+      "id": 100
+    },
+    {
+      "Name": "Crispy Chicken",
+      "id": 101
+    },
+    {
+      "Name": "Whopper",
+      "id": 102
+    },
+    {
+      "Name": "Whopper",
+      "id": 103
+    },
+    {
+      "Name": "Triple Cheeseburger",
+      "id": 104
+    },
+    {
+      "Name": "BBQ Cheese Chicken Royale",
+      "id": 105
+    },
+    {
+      "Name": "BBQ Cheese Chicken Royale",
+      "id": 106
+    },
+    {
+      "Name": "Whopper",
+      "id": 107
+    },
+    {
+      "Name": "Flexi BBQ Cheese",
+      "id": 108
+    },
+    {
+      "Name": "Crispy Chicken",
+      "id": 109
+    },
+    {
+      "Name": "Flexi BBQ Cheese",
+      "id": 110
+    },
+    {
+      "Name": "Whopper",
+      "id": 111
+    },
+    {
+      "Name": "Flexi BBQ Cheese",
+      "id": 112
+    },
+    {
+      "Name": "Crispy Chicken",
+      "id": 113
+    },
+    {
+      "Name": "Gourmet Grill Steakhouse",
+      "id": 114
+    },
+    {
+      "Name": "Double Halloumi King",
+      "id": 115
+    },
+    {
+      "Name": "Crispy Chicken",
+      "id": 116
+    },
+    {
+      "Name": "Whopper",
+      "id": 117
+    },
+    {
+      "Name": "Flexi BBQ Cheese",
+      "id": 118
+    },
+    {
+      "Name": "Crispy Chicken",
+      "id": 119
+    },
+    {
+      "Name": "Gourmet Grill Steakhouse",
+      "id": 120
+    },
+    {
+      "Name": "Double Gourmet Grill Triple Cheese",
+      "id": 121
+    },
+    {
+      "Name": "Triple Cheeseburger",
+      "id": 122
+    },
+    {
+      "Name": "Whopper",
+      "id": 123
+    },
+    {
+      "Name": "Crispy Chicken",
+      "id": 124
+    },
+    {
+      "Name": "Crispy Chicken",
+      "id": 125
+    },
+    {
+      "Name": "Whopper",
+      "id": 126
+    },
+    {
+      "Name": "Flexi BBQ Cheese",
+      "id": 127
+    },
+    {
+      "Name": "Gourmet Grill Steakhouse",
+      "id": 128
+    },
+    {
+      "Name": "Gourmet Grill Steakhouse",
+      "id": 129
+    },
+    {
+      "Name": "Double Gourmet Grill Triple Cheese",
+      "id": 130
+    },
+    {
+      "Name": "Double Halloumi King",
+      "id": 131
+    },
+    {
+      "Name": "Whopper Bacon & Cheese",
+      "id": 132
+    },
+    {
+      "Name": "BBQ Cheese Chicken Royale",
+      "id": 133
+    },
+    {
+      "Name": "BBQ Cheese Chicken Royale",
+      "id": 134
+    },
+    {
+      "Name": "Double Halloumi King",
+      "id": 135
+    },
+    {
+      "Name": "BBQ Cheese Chicken Royale",
+      "id": 136
+    },
+    {
+      "Name": "Flexi BBQ Cheese",
+      "id": 137
+    },
+    {
+      "Name": "Whopper",
+      "id": 138
+    },
+    {
+      "Name": "Crispy Chicken",
+      "id": 139
+    },
+    {
+      "Name": "Whopper",
+      "id": 140
+    },
+    {
+      "Name": "Crispy Chicken",
+      "id": 141
+    },
+    {
+      "Name": "Flexi BBQ Cheese",
+      "id": 142
+    },
+    {
+      "Name": "Crispy Chicken",
+      "id": 143
+    },
+    {
+      "Name": "Gourmet Grill Steakhouse",
+      "id": 144
+    },
+    {
+      "Name": "Double Gourmet Grill Triple Cheese",
+      "id": 145
+    },
+    {
+      "Name": "BBQ Cheese Chicken Royale",
+      "id": 146
+    }
+  ]
+}
